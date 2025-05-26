@@ -7795,7 +7795,7 @@ textarea.form-control-lg {
 .py-5 {
   padding-top: 3rem !important;
   padding-bottom: 3rem !important;
-  background-image: url(../assets/img/separador.png);
+  background-image: url(../assets/img/separador.avif);
   
 }
 
@@ -10973,7 +10973,7 @@ header.masthead {
   color: #fff;
 
   /* imagen inicio */
-  background-image: url("../assets/bannermitad.png");
+  background-image: url("../assets/img/bannermitad.webp");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11291,7 +11291,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   
-  background-image: url("../assets/img/banner.png");
+  background-image: url("../assets/img/banner.webp");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
